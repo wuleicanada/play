@@ -1,4 +1,3 @@
-play
-====
+Hello world app in Play 2
 
-Play 2 for Scala
+Based on book "Play for Scala"
