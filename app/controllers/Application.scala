@@ -8,5 +8,9 @@ object Application extends Controller {
   def index = Action {
     Ok("Hello world")
   }
+
+  def hello(name: String) = Action {
+    Ok("Hello " + name)
+  }  
   
 }
